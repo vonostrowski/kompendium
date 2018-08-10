@@ -1,3 +1,5 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+This is a first version of our Kompendium, work is still in progress.
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
+You may use it as an open educational resource and edit your own version with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for an introduction.
+
+You can find the preview of the Kompendium at https://janssent.github.io/kompendium-bkdwn/, a formally published version will be available at the homepage of the AG Didaktik by October 2018.

@@ -66,7 +66,7 @@ ausgeliehen werden, sei es zur Verwendung im Schulpraktikum oder in
 einer unserer Lehrveranstaltungen.
 
 Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2017, für
-Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](www.matelier.uni-bremen.de)):
+Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de)):
 
 -   montags von 16:00 bis 18:00 Uhr
 
@@ -80,7 +80,7 @@ regelmäßigen *Forschertage* oder der jährlich stattfindenden
 *Kinder-Uni*. Dabei gibt es auch immer wieder Gelegenheit für
 Studierende, sich aktiv an Planung und Durchführung zu beteiligen.
 
-Nähere Informationen finden Sie unter [www.matelier.uni-bremen.de](www.matelier.uni-bremen.de).
+Nähere Informationen finden Sie unter [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de).
 
 
 Das mathematikdidaktische Kolloquium
@@ -89,4 +89,4 @@ Das mathematikdidaktische Kolloquium
 Zwei bis drei mal im Semester findet im Rahmen des mathematischen
 Kolloquiums ein mathematikdidaktischer Vortrag eines interessanten Gasts
 von außerhalb statt. Auf diese Vorträge und ähnliche besondere Events
-wird auf der [Homepage der AG Didaktik](www.math.uni-bremen.de/didaktik/) hingewiesen.
+wird auf der [Homepage der AG Didaktik](http://www.math.uni-bremen.de/didaktik/) hingewiesen.
