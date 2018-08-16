@@ -1,21 +1,24 @@
 \usepackage{booktabs}
 \usepackage{amsthm}
-\usepackage{libertine}
+\usepackage[tt=false]{libertine}
+\usepackage[default,light,scale=.9]{sourcecodepro}
+\usepackage[T1]{fontenc}
 \usepackage{microtype}
 \usepackage{csquotes}             %für richtige Anführungszeichen
 \usepackage{hanging}								%ermöglicht hängenden Einzug
+
 %KOPFZEILE
 \usepackage[automark] {scrpage2}            % Kopf- und Fußzeilen
 \pagestyle{scrheadings}                % [] - erste Seite, {} - alle anderen
 \setkomafont{pageheadfoot}{}
 %\ihead[]{\Titel~}                      % linke Kopfzeile
 \chead[]{}                              % mittlere Kopfzeile, leer
-\ohead[]{\textsf{\headmark}}                    % rechte Kopfzeile
+\ohead[]{}                    % rechte Kopfzeile
 %\ifoot[]{}                              % linke Fußzeile
 \cfoot[]{}                              % mittlere Fußzeile
 \ofoot[\pagemark]{\pagemark}                              % rechte Fußzeile
 %\setheadtopline{.4pt}                  % Linien über/ unter Kopf-/ Fußzeile
-\setheadsepline{1.2pt}
+%\setheadsepline{1.2pt}
 %\setfootsepline{2pt}
 %\setfootbotline{.4pt}
 \setlength\parindent{0pt}

@@ -111,14 +111,12 @@ Die Studierwerkstatt
 
 :   der Uni Bremen bietet gegen geringe Gebühren diverse Kurse und
     Begleitung beim Schreiben an – teilweise sogar anrechenbar als
-    General Studies. Das aktuelle Kursangebot lässt sich hier einsehen: https://www.uni-bremen.de/studierwerkstatt/programm/
+    General Studies. Das aktuelle Kursangebot lässt sich [hier](https://www.uni-bremen.de/studierwerkstatt/programm/) einsehen.
 
 Der Bremer Schreibcoach
 
 :   ist ein von Kolleg\_innen am Fachbereich 10 entwickeltes
-    Onlineprogramm, in das man an verschiedenen Stellen einsteigen kann,
-    je nach aktuellen Bedürfnissen:
-    http://www.bremer-schreibcoach.uni-bremen.de/
+    [Onlineprogramm](http://www.bremer-schreibcoach.uni-bremen.de/), in das man an verschiedenen Stellen einsteigen kann, je nach aktuellen Bedürfnissen.
 
 Die Schreibwerkstatt MINT
 
@@ -126,10 +124,10 @@ Die Schreibwerkstatt MINT
     naturwissenschaftlich"=technischer Texte, dürften also vor allem für
     das Schreiben fachlicher Arbeiten in Mathematik oder im zweiten Fach
     hilfreich sein, manches ist aber sicher auf Arbeiten in der
-    Didaktik übertragbar. Weitere Infos gibt es hier:
-    http://www.uni-bremen.de/schreibwerkstatt-mint
+    Didaktik übertragbar. Weitere Infos gibt es unter
+    http://www.uni-bremen.de/schreibwerkstatt-mint.
 
 Das Fremdsprachenzentrum
 
-:   hat Angebote für Studierende, für die Deutsch die zweite, dritte
-    oder vierte Sprache ist: http://www.fremdsprachenzentrum-bremen.de
+:   hat [Angebote für Studierende](http://www.fremdsprachenzentrum-bremen.de), für die Deutsch die zweite, dritte
+    oder vierte Sprache ist.

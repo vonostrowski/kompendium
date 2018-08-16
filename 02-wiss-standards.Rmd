@@ -269,7 +269,7 @@ kopieren, auf der sich die Informationen zu der Publikation finden, in
 dem der Artikel erschienen ist, also das Deckblatt oder das Impressum.
 Dies erspart Ihnen später unter Umständen Arbeit. Alternativ können Sie
 von Anfang an eine Literaturverwaltungssoftware (siehe
-Abschnitt [Software](#sec:software) nutzen, um diese Informationen zu erfassen.
+Abschnitt [Software als Hilfe](#sec:software)) nutzen, um diese Informationen zu erfassen.
 
 
 ### Internetquellen {#internetquellen .unnumbered}
@@ -308,23 +308,11 @@ Nutzung erhalten Sie unter
 http://www.suub.uni-bremen.de/literatur-verwalten/refworks/.
 
 In LaTeX wird die Formatierung der Zitationen und des
-Literaturverzeichnisses allerdings nicht von der externen Software
-übernommen, sondern muss über ein Paket bewerkstelligt werden, das auf
-die Ihre Datenbank zugreift. Es gibt mehrere Möglichkeiten, das Paket
-apacite ist durchaus zu empfehlen. Wenn es geladen ist und Deutsch als
-Sprache des Dokuments eingestellt ist, muss lediglich apacite als
-bibliographystyle nach Einbinden der Bibliographie angegeben werden;
-zitiert wird über Befehle, die sich auf Kurzcodes zu den
-Datenbankeinträgen beziehen. Die Standardzitierweise von
-LaTeX entspricht nicht den APA-Standards und sollte daher nicht
-verwendet werden.
+Literaturverzeichnisses allerdings nicht von der externen Software übernommen, sondern muss über ein Paket bewerkstelligt werden, das auf Ihre Datenbank in Form einer bib-Datei zugreift. Es gibt mehrere Möglichkeiten; das Paket apacite ist durchaus zu empfehlen. Wenn es mittels `\usepackage{apacite}` in der Präambel geladen ist und Deutsch als Sprache des Dokuments eingestellt ist, muss nur noch nach Einbinden der Bibliographiedatei (zum Beispiel `literatur.bib`) apacite als Bibliographiestil angegeben werden:
 
-Viele Websites bieten auch den direkten Export von Literaturangaben an,
-entweder in eines der verfügbaren Programme oder als APA-konforme
-Quellenangabe. Auch die genannten Literaturverwaltungssoftwares bieten
-die Möglichkeit, Titelinformationen per Eingabe der ISBN oder DOI aus
-einer Online-Datenbank abzurufen. Solche automatisierten Hilfen sind
-allerdings durchaus fehleranfällig – häufig fehlen Autor\_innennamen,
-Bücher werden als Monographie statt als Sammelband angegeben und so
-weiter. Vor der Abgabe sollte man sich diese automatisch generierten
-Einträge also noch einmal besonders genau ansehen.
+    \bibliography{literatur}
+    \bibliographystyle{apacite}
+
+Zitiert wird über Befehle, die sich auf Kurzcodes zu den Datenbankeinträgen beziehen. Die Standardzitierweise von LaTeX entspricht nicht den APA-Standards und sollte daher nicht verwendet werden.
+
+Viele Websites bieten auch den direkten Export von Literaturangaben an, entweder in eines der verfügbaren Programme, in das bib-Format oder als APA-konformen Text. Die genannten Literaturverwaltungssoftwares bieten die Möglichkeit, Titelinformationen per Eingabe der ISBN oder DOI aus einer Online-Datenbank abzurufen. Solche automatisierten Hilfen sind allerdings durchaus fehleranfällig – häufig fehlen Autor\_innennamen, Bücher werden als Monographie statt als Sammelband angegeben und so weiter. Vor der Abgabe sollte man sich diese automatisch generierten Einträge also noch einmal besonders genau ansehen.
