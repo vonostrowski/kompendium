@@ -100,8 +100,7 @@ folgenden Titel gedruckt vor:
 -   Journal für Mathematik Didaktik
 
 Eine sehr umfangreiche Aufstellung der Zeitschriften mit
-mathematikdidaktischen Inhalten stellte Samuel Otten auf Wikispaces zur Verfügung. Da das Hosting eingestellt wurde, gibt es nur noch eine archivierte Version unter 
-<https://web.archive.org/web/20180724110150/https://mathedjournals.wikispaces.com/>.
+mathematikdidaktischen Inhalten stellte Samuel Otten auf Wikispaces zur Verfügung. Da das Hosting eingestellt wurde, gibt es nur noch eine [archivierte Version](https://web.archive.org/web/20180724110150/https://mathedjournals.wikispaces.com/).
 
 Datenbanken
 -----------
@@ -125,8 +124,7 @@ FIS Bildung
 
 ERIC
 
-:   [www.eric.ed.gov](https://www.eric.ed.gov) – Hauptsächlich englischsprachige Publikationen,
-    teilweise mit direkten Verweisen auf downloadbare Volltexte.
+:   [eric.ed.gov](https://eric.ed.gov) – Hauptsächlich englischsprachige Publikationen, teilweise mit direkten Verweisen auf downloadbare Volltexte.
 
 Weitere Ressourcen
 ------------------
@@ -140,7 +138,7 @@ Nennen Sie Ihre Quellen!
 
 Geogebra
 
-:   [www.geogebra.de](https://www.geogebra.org) – Geogebra ist ein kostenlos downloadbares Open
+:   [Geogebra](https://www.geogebra.org) ist ein kostenlos downloadbares Open
     Source-Programm, das als dynamische Geometrie-Software konzipiert
     wurde, aber auch den Umgang mit algebraischen Ausdrücken erlaubt.
     Inzwischen wurde darüber hinaus eine Tabellenkalkulation sowie ein
@@ -150,18 +148,14 @@ Geogebra
 
 ZUM-Wiki
 
-:   [wiki.zum.de](https://wiki.zum.de) – Das ZUM-Wiki stellt eine Plattform bereit, auf der
+:   Das [ZUM-Wiki](https://wiki.zum.de) stellt eine Plattform bereit, auf der
     Lernumgebungen von Lehrer\_innen eingesehen und modifiziert und
     direkt von Schüler\_innen bearbeitet werden können.
 
 MUED e.V.
 
-:   [www.mued.de](https://www.mued.de) – In der Mathematik-Unterrichts-Einheiten-Datei können
-    Mitglieder Unterrichtsdateien herunterladen.
+:   In der [Mathematik-Unterrichts-Einheiten-Datei](https://www.mued.de) können (zahlende) Mitglieder Unterrichtsdateien herunterladen.
 
 DZLM
 
-:   [www.dzlm.de](https://www.dzlm.de) – Das Deutsche Zentrum für Lehrerbildung Mathematik
-    wurde 2011 ins Leben gerufen und stellt auf seiner Website vor allem
-    Informationen zu Fort- und Weiterbildungen zur Verfügung. Darüber
-    hinaus wird Lehrmaterial aus anderen Projekten verlinkt.
+:   Das [Deutsche Zentrum für Lehrerbildung Mathematik](https://www.dzlm.de) wurde 2011 ins Leben gerufen und stellt auf seiner Website vor allem Informationen zu Fort- und Weiterbildungen zur Verfügung. Darüber hinaus wird Lehrmaterial aus anderen Projekten verlinkt.
