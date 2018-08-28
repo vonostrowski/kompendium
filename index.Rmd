@@ -1,9 +1,10 @@
 --- 
 title: "Kompendium zum wissenschaftlichen Arbeiten"
 subtitle: "herausgegeben von der AG Didaktik im Fachbereich 3 der Universität Bremen"
-description: ""
+description: "Eine Handreichung für Studierende im Mathematiklehramt mit hilfreichen Informationen zur AG Didaktik im FB3 der Universität Bremen und zum erfolgreichen wissenschaftlichen Arbeiten in der Mathematikdidaktik."
 author: "Thomas Janßen"
-date: "Oktober 2018 · 7. Auflage"
+date: "Version 7 · Oktober 2018"
+license: Creative Commons Zero v1.0 Universal
 site: bookdown::bookdown_site
 graphics: yes
 documentclass: scrbook
@@ -40,3 +41,5 @@ Ein Punkt, der im Kompendium nicht angesprochen wird, ist der der geschlechterge
 Viel Freude und Erfolg im Studium wünscht Ihnen im Namen aller Mitglieder der AG Didaktik
 
 Thomas Janßen
+
+> Dieses Kompendium unterliegt der Lizenz *Creative Commons Zero v1.0 Universal*, die unter https://github.com/janssent/kompendium-bkdwn/blob/master/LICENSE eingesehen werden kann. Es darf damit in sämtlichen Formaten frei verwendet und weiterentwickelt werden. Insbesondere besteht die Möglichkeit, ausgehend vom unter https://github.com/janssent/kompendium-bkdwn bereitgestellten Quellcode eine eigene Version zu entwickeln.
