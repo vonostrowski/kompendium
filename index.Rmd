@@ -42,4 +42,6 @@ Viel Freude und Erfolg im Studium wünscht Ihnen im Namen aller Mitglieder der A
 
 Thomas Janßen
 
+---
+
 > Dieses Kompendium unterliegt der Lizenz *Creative Commons Zero v1.0 Universal*, die unter https://github.com/janssent/kompendium-bkdwn/blob/master/LICENSE eingesehen werden kann. Es darf damit in sämtlichen Formaten frei verwendet und weiterentwickelt werden. Insbesondere besteht die Möglichkeit, ausgehend vom unter https://github.com/janssent/kompendium-bkdwn bereitgestellten Quellcode eine eigene Version zu entwickeln.

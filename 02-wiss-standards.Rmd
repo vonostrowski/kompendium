@@ -95,7 +95,7 @@ zulässig.
 Erstreckt sich das *Zitat über zwei Seiten*, wird folgendermaßen
 zitiert:
 
-> (Anderson & Rademacher, 1976, S. 3f.)
+> (Anderson & Rademacher, 1976, S. 3 f.)
 
 Wenn der\_die *Autor\_in ohnehin im Fließtext* genannt wird und
 unmittelbar klar wird, wird sein\_ihr Name nicht mehr in Klammern
@@ -153,11 +153,7 @@ Quelle nicht selbst überprüft haben. Sie schreiben dann
 
 > (Martens, 1905, zit. n. Kalbs, Richter & Löb, 2011, S. 345)
 
-Die ursprüngliche Quelle taucht lediglich in diesem Verweis auf, in
-Ihrem Literaturverzeichnis führen Sie nur das Werk auf, das sie
-tatsächlich gelesen haben. So stellen Sie auch sicher, dass eine falsche
-Einordnung des Zitats, die den Autor\_innen hier unter Umständen
-unterlaufen ist, nicht Ihnen zur Last gelegt wird.
+Die ursprüngliche Quelle (im Beispiel das Werk von Martens) taucht lediglich in diesem Verweis auf, in Ihrem Literaturverzeichnis führen Sie nur das Werk auf, das sie tatsächlich gelesen haben (im Beispiel Kalbs, Richter & Lob). So stellen Sie auch sicher, dass eine falsche Einordnung des Zitats, die den Autor\_innen hier unter Umständen unterlaufen ist, nicht Ihnen zur Last gelegt wird.
 
 ### Sinngemäße Zitate
 
@@ -173,7 +169,7 @@ drei Seiten kann man dabei wie weiter oben gezeigt vorgehen, verwendet
 aber “ff.” statt “f.”, bei längeren Abschnitten gibt man den
 Seitenbereich folgendermaßen an:
 
-> (Ahrens, 2001, S. 3-9)
+> (Ahrens, 2001, S. 3--9)
 
 Wenn die entsprechende Idee Thema eines Aufsatzes ist, kann die Angabe
 der Seitenzahl auch ganz weggelassen werden.
@@ -222,8 +218,7 @@ dargestellt, denen Sie wahrscheinlich begegnen werden.
 
 ### Monographie (ein durchgehendes Werk, im Gegensatz zum Sammelband) mit einem Autor/einer Autorin {#monographie-ein-durchgehendes-werk-im-gegensatz-zum-sammelband-mit-einem-autoreiner-autorin .unnumbered}
 
-\hangpara{0.5in}{1}Rijkaard, T. (1998). *Vom Entstehen einer Sprache* (3. Aufl.). Berlin:
-Hauser.
+\hangpara{0.5in}{1}Rijkaard, T. (1998). *Vom Entstehen einer Sprache* (3. Aufl.). Berlin: Hauser.
 
 Man beachte hier, dass bei Büchern (also auch den folgenden beiden
 Publikationstypen) die Auflage in Klammern (und nicht mehr kursiv, aber
@@ -240,18 +235,23 @@ ein Komma vor dem und-Zeichen vor. Da dies im Deutschen jedoch anders
 als im Englischen (wo man sich darüber abendfüllend streiten kann)
 völlig unüblich ist, können wir es fortlassen.
 
+Bei mehr als sieben Autor\_innen werden die ersten sechs Namen wie auch sonst geschrieben, die folgenden bis auf den letzten werden durch Auslassungspunkte ersetzt:
+
+\hangpara{0.5in}{1}Oguz, A., Penrose, D., Sievers, T., Nothman, J, Larouche, P., Michel, A., ... Peters, T. (2001). *Teamwork*. Karlsruhe: Dannemann.
+
+Die Regeln für den Umgang mit mehreren Autor_innen gelten ebenso für alle weiteren Publikationstypen.
+
 ### Sammelband {#sammelband .unnumbered}
 
-\hangpara{0.5in}{1}Othendorf, D. (Hrsg.). (1954). *Neue Wege zur Mathematik: Ein
-Überblick*. Leipzig: Siebald.
+\hangpara{0.5in}{1}Othendorf, D. (Hrsg.). (1954). *Neue Wege zur Mathematik: Ein Überblick*. Leipzig: Siebald.
 
 ### Beitrag in einem Sammel- oder Tagungsband {#beitrag-in-einem-sammel--oder-tagungsband .unnumbered}
 
 \hangpara{0.5in}{1}Klose, H. (1954). Lernen durch Nachahmen. In D. Othendorf (Hrsg.), *Neue
-Wege zur Mathematik. Ein Überblick* (S. 84-102). Leipzig: Siebald.
+Wege zur Mathematik. Ein Überblick* (S. 84--102). Leipzig: Siebald.
 
-Hier ist zu beachten, dass bei den Herausgeber\_innen nun – zugegeben
-inkonsequenterweise – die Initialien der Vornamen vor dem Nachnamen
+Hier ist zu beachten, dass bei den Herausgeber\_innen nun -– zugegeben
+inkonsequenterweise –- die Initialien der Vornamen vor dem Nachnamen
 stehen und danach ein Komma gesetzt wird. In englischsprachigen Arbeiten
 steht in Klammern statt “Hrsg.” die Abkürzung “Ed.” bzw. “Eds.”.
 
@@ -259,7 +259,7 @@ steht in Klammern statt “Hrsg.” die Abkürzung “Ed.” bzw. “Eds.”.
 
 \hangpara{0.5in}{1}Raabe, L. M. & Less, W. (2006). Erst eins, dann zwei, dann drei, dann
 vier: Advent im Mathematikunterricht. *Ideen zum Mathematikunterricht,
-11*(2), 24-30.
+11*(2), 24--30.
 
 
 Auch wenn sich vieles heute online finden lässt, so muss man doch immer
