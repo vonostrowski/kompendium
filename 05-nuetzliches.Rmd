@@ -126,6 +126,16 @@ ERIC
 
 :   [eric.ed.gov](https://eric.ed.gov) – Hauptsächlich englischsprachige Publikationen, teilweise mit direkten Verweisen auf downloadbare Volltexte.
 
+Für bestimmte Themen lohnt es sich zu schauen, ob vielleicht schon andere die Literatur dazu gesichtet haben. Hilfreiche Suchbegriffe sind "survey", "literature review" und "meta-study". Folgende Angebote sind besonders hervorzuheben:
+
+Clearing House Unterricht
+
+:   [www.clearinghouse.edu.tum.de/](https://www.clearinghouse.edu.tum.de/) – Verfolgt das Ziel, "aktuelle wissenschaftliche Erkenntnisse zu effektivem MINT-Unterricht zusammenzufassen und für die Lehrerbildung zielgruppengerecht aufzubereiten".
+
+ICME-13 Topical Surveys
+
+:   [rd.springer.com/bookseries/14352](https://rd.springer.com/bookseries/14352) – Anlässlich der ICME-13, die 2016 in Hamburg stattfand, wurden renommierte Mathematikdidaktiker_innen gebeten, einen aktuellen Überblick zu Feldern zu erstellen, in denen sie Expert_innen sind. Ergebnis sind 26 Broschüren, die kostenlos herunterzuladen sind.
+
 Weitere Ressourcen
 ------------------
 

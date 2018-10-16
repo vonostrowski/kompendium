@@ -22,4 +22,4 @@ Die genannten Verfahren lassen sich teilweise schnell erledigen,
 bedeuten manchmal aber auch eine erhebliche Mehrbelastung in der
 Vorbereitung einer Datenerhebung. Es sollte also frühzeitig geklärt
 werden, welches Verfahren notwendig ist und welche Vorkehrungen zu
-machen sind.
+treffen sind.

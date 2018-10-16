@@ -5,10 +5,7 @@ Die AG Didaktik
 
 Die AG Didaktik im Fachbereich 3 umfasst alle diejenigen
 Mitarbeiter\_innen, die sich in Forschung und Lehre mit der Didaktik der
-Mathematik auseinandersetzen. Geleitet wird diese Gruppe von den
-drei Professorinnen für Mathematikdidaktik, Prof. Dr. Angelika
-Bikner-Ahsbahs, Prof. Dr. Christine Knipping und Prof. Dr. Maike
-Vollstedt. Langjährige Erfahrungen in der Schulpraxis, in der Förderung
+Mathematik auseinandersetzen. Geleitet wird diese Gruppe von Prof. Dr. Christine Knipping und Prof. Dr. Maike Vollstedt. Langjährige Erfahrungen in der Schulpraxis, in der Förderung
 von Lernenden und in der Aus- und Fortbildung von Lehrkräften,
 vielfältige Erfahrungen in der mathematischen und mathematikdidaktischen
 Forschung kommen in unserer AG Didaktik der Mathematik zusammen. Die
@@ -19,8 +16,8 @@ mehr theoretische und praktische Einsicht in Prozesse der mathematischen
 Wissenskonstruktion und deren fördernde und behindernde Bedingungen zu
 gewinnen.
 
-```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlt Fiene Bredow.", echo = FALSE}
-knitr::include_graphics('bild_ag.jpg')
+```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlen Angelika Bikner-Ahsbahs, Uwe Schallmeier, Daniela Schansker und Mareike Best.", echo = FALSE}
+knitr::include_graphics('ag_web_bw.jpg')
 ```
 
 Zentraler Grundsatz in der Lehrer\_innenausbildung ist eine möglichst
@@ -65,14 +62,13 @@ Materialien können von den Studierenden der Universität zudem
 ausgeliehen werden, sei es zur Verwendung im Schulpraktikum oder in
 einer unserer Lehrveranstaltungen.
 
-Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2017, für
-Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de)):
+Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2018, für Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de)):
 
--   montags von 16:00 bis 18:00 Uhr
+-   dienstags von 15:45 bis 17:45 Uhr
 
--   mittwochs von 12:00 bis 14:00 Uhr
+-   mittwochs von 14:00 bis 16:00 Uhr
 
--   donnerstags von 16:00 bis 18:00 Uhr
+-   donnerstags von 12:00 bis 14:00 Uhr
 
 Außerdem ist das Matelier auch ein Tor zur Mathematik für viele
 Schüler\_innen, die die Universität besuchen, sei es im Rahmen der
